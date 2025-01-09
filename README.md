@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kamranarshid
-- 👀 I’m interested in php, node, react, python, mysql, devops
-- 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on php, node, react, python, devops, mysql
+- 👀 I’m interested in PHP, Node, Nestjs, MySQL, DevOps
+- 🌱 I’m currently working on Integration on HL7, Mirth Connect 
+- 💞️ I’m looking to collaborate on PHP, NODE, NEST, DevOps, MySQL, PostgreSQL, MongoDB
 - 📫 How to reach me kamranarshid@gmail.com
 
 <!---
